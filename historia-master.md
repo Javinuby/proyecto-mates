@@ -1,3 +1,3 @@
 # Historia de la rama master
 
-Hace unas semanas empezó este curso..
+Hace unas semanas empezó este curso y dentro de poco acabará...
