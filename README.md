@@ -6,6 +6,6 @@ Y además, nuestro proyecto ya consta de [GitHub Page](https://javinuby.github.i
 
 Curso enfocado a Git y GitHub. Modificación.
 
-
+Estos son cambios procedentes de la rama de Readme.
 
 
