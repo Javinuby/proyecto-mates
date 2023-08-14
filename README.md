@@ -4,7 +4,7 @@ Y además, nuestro proyecto ya consta de [GitHub Page](https://javinuby.github.i
 
 ## Descripción del curso
 
-Curso enfocado a Git y GitHub
+Curso enfocado a Git y GitHub. Modificación.
 
 
 
