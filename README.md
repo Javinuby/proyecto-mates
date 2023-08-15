@@ -2,8 +2,10 @@ Esto será un fichero para mostrar los commits a revertir. El cliente ya puede s
 
 Y además, nuestro proyecto ya consta de [GitHub Page](https://javinuby.github.io/proyecto-mates/).
 
-# Descripción del curso
-
 # Curso de Git y GitHub
 * sidfsdifojsdifjsiodfjoizjsdfoixzf
 fxchbvxbvhbxcvxz
+
+## Descripción del curso
+
+xd
