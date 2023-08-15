@@ -9,3 +9,7 @@ fxchbvxbvhbxcvxz
 ## Descripción del curso
 
 xd
+
+## Más cambios
+
+Estos son más cambios en el Readme para simular un flujo de trabajo real.
